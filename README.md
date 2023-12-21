@@ -9,37 +9,43 @@ Feel free to explore the diverse projects presented here, each designed to demon
 
     Overview: Classifying various Kenyan Sign Languages into different categories.
     Aim: Enhancing communication and accessibility for the deaf community.
-    Technologies: Python, TensorFlow, PyTorch, Fastai, Gradio.
+    Technologies: Python,Pytorch, Fastai, Gradio.
 
 **2. Makerere Fall Armyworm Disease Detection**
 
     Overview: Detecting fall armyworm infestation in crops using machine learning.
     Aim: Addressing the impact of fall armyworm on maize production in Africa.
-    Technologies: Python, TensorFlow, PyTorch, scikit-learn.
+    Technologies: Python, Fastai, Pytorch
 
 **3. Makerere Passion Fruit Disease Detection Challenge**
 
     Overview: Developing a model to classify disease status in passion fruit plants.
     Aim: Empowering smallholder farmers with a diagnostic tool for crop management.
-    Technologies: Python, TensorFlow, PyTorch, scikit-learn.
+    Technologies: Python, Fastai, Pytorch
 
 **4. Microsoft Rice Prediction Challenge**
 
     Overview: Predicting the disease of a rice plant using RGB and Infrared images.
     Aim: Early detection of rice blast disease to aid farmers in crop management.
-    Technologies: Python, TensorFlow, PyTorch, scikit-learn.
+    Technologies: Python, Fastai, Pytorch
 
 **5. Digital Africa Plantation Counting Challenge**
 
     Overview: Developing a semi-supervised algorithm to count palm oil trees in images.
     Aim: Facilitating precision agriculture and aiding farmers in crop yield estimation.
-    Technologies: Python, TensorFlow, PyTorch, scikit-learn.
+    Technologies: Python, Fastai, Pytorch
 
 **6. Wadhwani AI Bollworm Classification Challenge**
 
     Overview: Improving a pest control app by classifying images with bollworm moths.
     Aim: Enhancing accuracy in bollworm pest detection to guide informed pest control decisions.
-    Technologies: Python, TensorFlow, PyTorch, scikit-learn.
+    Technologies: Python, Fastai, Pytorch
+
+**7. Computer Vision for License Plate Recognition**
+
+    Overview: Developing a model to detect and recognize license plates in images.
+    Aim: Enhancing security and surveillance systems with automated license plate recognition.
+    Technologies: Python, OpenCV, PyTorch.
 
 ### Future Developments
 
